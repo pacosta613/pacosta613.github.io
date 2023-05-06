@@ -12,9 +12,9 @@ const Hero = (props) => (
         <span style={{color: '#00FF00'}}>Pedro's Portfolio</span>
       </SectionTitle>
       <SectionText>
-        I am a full stack developer with a passion for learning new technologies and building new things.
+        I am a Software Engineer with a passion for learning new technologies and building new things.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://pacosta613.github.io/'}>Learn More</Button>
     </LeftSection>
   </Section>
 
