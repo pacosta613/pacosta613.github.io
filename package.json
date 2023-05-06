@@ -1,0 +1,21 @@
+{
+  "name": "pedro-acosta-portfolio",
+  "version": "1.0.0",
+  "description": "List of projects worked on.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "styled-components": "^5.3.10",
+    "styled-normalize": "^8.0.7"
+  }
+}
